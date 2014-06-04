@@ -11,7 +11,7 @@ _configOptions = {
 	webmap_largescale: "aaeeb088f21e42d6abf6204fac61aeb8", 
 	
 	//id for overview web map; this is the map that contains the content point layer
-	webmap_overview: "caca75ada5f14f1dad84a560db831a50",
+	webmap_overview: "f96f8ad7efd9477c9c5962109355be0a",
 	
 	//layer in overview webmap which provides the countdown content
 	contentLayer: "locations", 
