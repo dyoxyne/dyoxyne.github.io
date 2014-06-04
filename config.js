@@ -15,7 +15,7 @@ _configOptions = {
 	
 	//layer in overview webmap which provides the countdown content
 	contentLayer: "locations", 
-	fieldName_Rank: "rank",
+	fieldName_Rank: "step",
 	fieldName_Name: "name",
 	//NOTE: if level field doesn't exist, app will use defaultLargeScaleZoomLevel
 	fieldName_Level: "level",
